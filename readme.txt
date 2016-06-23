@@ -14,6 +14,6 @@ ASP转PHP程序 v1.0
 交流学习QQ（313801120） 群（35915100）(群里已有几百人)    邮箱313801120@qq.com
 作者呕心沥血花了大半年时间才开发出来，现在分享给大家。程序不免会有BUG,可
 想获得更多帮助和下载最新版　请浏览(http://sharembweb.com)
-在线演示：http://sharembweb.com/asptophp/ 
+在线演示：http://sharembweb.com/asptophp/    
 
 
